@@ -11,12 +11,12 @@ BackToTop = function(){
 	/**
 	 * 空白图片
 	 */
-	BLANK_IMAGE_URL = 'resources/public/BackTop/blank.png';
+	BLANK_IMAGE_URL = 'https://github.com/lisanlai/BackTop/blob/master/blank.png';
 	
 	/**
 	 * 显示图片
 	 */
-	BACK_IMAGE_URL = 'resources/public/BackTop/back_to_top.png';
+	BACK_IMAGE_URL = 'https://github.com/lisanlai/BackTop/blob/master/back_to_top.png';
 	
 	userAgent = navigator.userAgent.toLowerCase();
 	
