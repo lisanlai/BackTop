@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#backTopDiv {
+	display: block;
+	bottom: 0px;
+	right: 1px !important;
+	right: 18px;
+	width: 64px;
+	height: 64px,
+	position: fixed;
+}
